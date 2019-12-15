@@ -1,10 +1,10 @@
-# hello-world
+# hello-worl
 
-Hi Humans
+>Hi Humans
 
-Gayhub here?
+>Gayhub here?
 
-A student in China, and was attrcted by the reputation of github (gayhub?)
+>A student in China, and was attrcted by the reputation of github (gayhub?)
 
-major in communication engineering, but more intersted in coding (despite my poor commend of it).
-Thus, that's the reason why I come here and try to become better at coding!
+>major in communication engineering, but more intersted in coding (despite my poor commend of it).
+>Thus, that's the reason why I come here and try to become better at coding!
